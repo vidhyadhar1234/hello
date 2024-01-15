@@ -1,1 +1,6 @@
-hello.git-
+hello.gitbash: wq: command not found
+
+bash: w: command not found:wq
+
+bash: wq: command not found
+
